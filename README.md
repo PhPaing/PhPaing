@@ -22,7 +22,7 @@ A machine learning project for predicting breast cancer diagnosis.
 - **Techniques:** Data preprocessing, feature selection, normalization, and model evaluation.  
 - **Models Used:** Logistic Regression, Random Forest (best performing).  
 - **Languages/Tools:** Python, Scikit-learn, Pandas, Matplotlib  
-- 🔗 [View on GitHub](https://github.com/PhPaing)  
+- 🔗 [View on GitHub](https://github.com/PhPaing/Python)  
 
 ---
 
