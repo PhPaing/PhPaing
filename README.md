@@ -12,7 +12,7 @@ A console-based banking application that simulates core ATM operations.
 - **Security:** Password validation with account lock after multiple failed attempts.  
 - **Design:** Applied **Object-Oriented Programming principles** for scalability and maintainability.  
 - **Languages/Tools:** Java, OOP, MySQL  
-- 🔗 [View on GitHub](https://github.com/PhPaing)  
+- 🔗 [View on GitHub](https://github.com/PhPaing/Java)  
 
 ---
 
