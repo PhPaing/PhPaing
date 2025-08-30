@@ -26,6 +26,15 @@ A machine learning project for predicting breast cancer diagnosis.
 
 ---
 
+### 📌 Hot Coffee Delivery App (Android Project)
+A mobile application for ordering and delivering coffee.
+- **Goal:** Provide users with an easy way to browse menus, place coffee orders, and track deliveries.
+- **Features:** User authentication, menu browsing, cart & checkout, and order management.
+- **Tech Stack:** Java, Android Studio, XML Layouts, MySQL/SQLite
+- 🔗 [View on GitHub](https://github.com/PhPaing/Mobile-Application)  
+
+---
+
 ## 👨‍💻 About Me  
 I am a final-year **Information Technology student** specializing in **Software Engineering**.  
 - Skilled in **Python, Java, HTML, CSS, PHP, MySQL, and Android Studio**.  
