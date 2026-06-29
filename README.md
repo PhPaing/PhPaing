@@ -35,12 +35,13 @@ A mobile application for ordering and delivering coffee.
 
 ---
 
-## 👨‍💻 About Me  
-I am a final-year **Information Technology student** specializing in **Software Engineering**.  
-- Skilled in **Python, Java, HTML, CSS, PHP, MySQL, and Android Studio**.  
-- Experienced in building **software solutions, web applications, and ML models**.  
-- Passionate about **scalable systems**, solving problems through technology, and continuous learning.  
-- My goal is to grow into a **professional Software Engineer** contributing to impactful projects.  
+## 👨‍💻 About Me
+I'm an **Information Technology graduate** passionate about **Software Engineering** and backend development.
+* 💻 Proficient in **Python, Java, PHP, HTML, CSS, MySQL, and Git**.
+* 🚀 Experienced in developing **web applications, software solutions, Android applications, and machine learning projects**.
+* 🧠 Strong foundation in **object-oriented programming, databases, and software development principles**.
+* 🌱 Continuously learning new technologies and best practices to build scalable and reliable applications.
+* 🎯 Currently seeking opportunities as a **Software Engineer**, where I can contribute, grow, and build impactful solutions.
 
 ---
 
