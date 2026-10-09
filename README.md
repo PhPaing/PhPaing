@@ -1,6 +1,6 @@
-# 👨‍💻 Phone Myat Paing – Junior Full-Stack Developer
+# 👨‍💻 Phone Myat Paing – Full-Stack Developer
 
-Hi, I'm Phone Myat Paing, a junior full-stack developer based in Bangkok. I build web applications with **React.js, TypeScript, ASP.NET Core, C# and SQL Server**, and I enjoy working across the whole stack, from the user interface to the API and database behind it.
+Hi, I'm Phone Myat Paing, a full-stack developer based in Bangkok. I build web applications with **React.js, TypeScript, ASP.NET Core, C# and SQL Server**, and I enjoy working across the whole stack, from the user interface to the API and database behind it.
 
 ---
 
@@ -23,7 +23,7 @@ A redesigned football club website with match schedules, news, player informatio
 - **AI chat assistant:** built the front-end interface for a chat assistant that connects to an AI chatbot service through its API.
 - **Integrations:** ASP.NET Core REST APIs (JSON requests and responses), plus the YouTube API and Football Data API for dynamic video content and match information.
 - **Tech Stack:** React.js, TypeScript, Tailwind CSS, JavaScript, REST APIs
-- 🌐 [Live site](https://bg-pathum-united-website.vercel.app/)
+- 🌐 [Live Demo](https://bg-pathum-united-website.vercel.app/)
 - 🔗 [View on GitHub](https://github.com/PhPaing/bg-pathum-united-website)
 
 ---
