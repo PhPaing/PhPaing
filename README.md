@@ -6,15 +6,15 @@ Hi, I'm Phone Myat Paing, a full-stack developer based in Bangkok. I build web a
 
 ## 🚀 Featured Projects
 
-### 📌 CondoQueue (Condo Repair & Bill Platform)
-A mobile-first web app for Bangkok condo residents to pay bills and report repairs, with a Thai/English toggle.
-- **Ticketing:** end-to-end repair flow where residents report an issue, the juristic office assigns it, and a technician closes it.
-- **Billing:** Common Fee, Water and Electric bills with a **PromptPay QR mock payment** (demo only, no real transfer).
-- **UI:** role-based dashboard, overdue bill highlighting, juristic chat and a mobile-first dark mode design.
-- **API design:** REST service layer structured around the .NET controller pattern.
-- **Tech Stack:** React.js, TypeScript, Next.js, Tailwind CSS, REST API
-- 🌐 [Live Demo](https://condoqueue.netlify.app/)
-- 🔗 [View on GitHub](https://github.com/PhPaing/CondoQueue)
+### 📌 Repair Queue (Condo Maintenance Tracker)
+A bilingual web app for condo residents to report maintenance problems and follow their place in the repair queue, with a Thai/English toggle.
+- **Residents:** submit repair requests by room and issue type (air con, door lock, water pipe, electrical, plumbing, other) and see their live queue position and estimated wait.
+- **Admin dashboard:** password-protected login to assign technicians, update ticket status and keep the queue order up to date.
+- **Notifications:** simulated LINE notifications when a request is queued (demo only, no real messages sent).
+- **State & storage:** React Context for shared state, with data persisted in the browser's localStorage.
+- **Tech Stack:** React.js, TypeScript, Vite, Tailwind CSS
+- 🌐 [Live Demo](https://repairqueue.netlify.app/)
+- 🔗 [View on GitHub](https://github.com/PhPaing/repairqueue)
 
 ---
 
@@ -41,6 +41,16 @@ A redesigned football club website with match schedules, news, player informatio
 ---
 
 ## 🧩 More Projects
+
+### 📌 CondoQueue (Condo Repair & Bill Platform)
+A mobile-first web app for Bangkok condo residents to pay bills and report repairs, with a Thai/English toggle.
+- **Ticketing:** end-to-end repair flow where residents report an issue, the juristic office assigns it, and a technician closes it.
+- **Billing:** Common Fee, Water and Electric bills with a **PromptPay QR mock payment** (demo only, no real transfer).
+- **UI:** role-based dashboard, overdue bill highlighting, juristic chat and a mobile-first dark mode design.
+- **API design:** REST service layer structured around the .NET controller pattern.
+- **Tech Stack:** React.js, TypeScript, Next.js, Tailwind CSS, REST API
+- 🌐 [Live Demo](https://condoqueue.netlify.app/)
+- 🔗 [View on GitHub](https://github.com/PhPaing/CondoQueue)
 
 ### 📌 Hot Coffee Delivery App (Android)
 A mobile app for browsing a coffee menu, placing orders and managing them.
