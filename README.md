@@ -83,7 +83,7 @@ A machine learning project that classifies tumors as **benign or malignant**.
 - 📜 Certifications: Responsive Web Design and JavaScript Algorithms & Data Structures (freeCodeCamp); Cloud-Based Web Development (Stamford International University).
 - 🗣️ Languages: English (fluent), Burmese (native).
 - 🌱 Always learning new technologies and best practices to build scalable, reliable applications.
-- 🎯 Currently seeking a **Junior Full-Stack, .NET or React Developer** role in Bangkok. Available immediately.
+- 🎯 Currently seeking a **Junior Full-Stack, .NET or React Developer** role. Available immediately.
 
 ---
 
