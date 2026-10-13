@@ -6,6 +6,18 @@ Hi, I'm Phone Myat Paing, a full-stack developer based in Bangkok. I build web a
 
 ## 🚀 Featured Projects
 
+### 📌 CondoQueue (Condo Repair & Bill Platform)
+A mobile-first web app for Bangkok condo residents to pay bills and report repairs, with a Thai/English toggle.
+- **Ticketing:** end-to-end repair flow where residents report an issue, the juristic office assigns it, and a technician closes it.
+- **Billing:** Common Fee, Water and Electric bills with a **PromptPay QR mock payment** (demo only, no real transfer).
+- **UI:** role-based dashboard, overdue bill highlighting, juristic chat and a mobile-first dark mode design.
+- **API design:** REST service layer structured around the .NET controller pattern.
+- **Tech Stack:** React.js, TypeScript, Next.js, Tailwind CSS, REST API
+- 🌐 [Live Demo](https://condoqueue.netlify.app/)
+- 🔗 [View on GitHub](https://github.com/PhPaing/CondoQueue)
+
+---
+
 ### 📌 MovieTracker (Full-Stack Web App)
 A movie watchlist app with an ASP.NET Core Web API, SQL Server and a React front end.
 - **Backend:** Web API with **JWT authentication** and **Entity Framework Core** migrations on SQL Server.
