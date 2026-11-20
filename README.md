@@ -1,10 +1,20 @@
 # 👨‍💻 Phone Myat Paing – Full-Stack Developer
 
-Hi, I'm Phone Myat Paing, a full-stack developer based in Bangkok. I build web applications with **React.js, TypeScript, ASP.NET Core, C# and SQL Server**, and I enjoy working across the whole stack, from the user interface to the API and database behind it.
+Hi, I'm Phone Myat Paing, a full-stack developer based in Bangkok. I build web applications with **Laravel, PHP, React.js, TypeScript, ASP.NET Core, C#, MySQL and SQL Server**, and I enjoy working across the whole stack, from the user interface to the API, the database and the server it runs on.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📌 Ticket Tracker (Laravel Support Ticket App)
+A support ticket tracker built with Laravel and MySQL, deployed to an Ubuntu environment with Nginx.
+- **Features:** create, edit and delete tickets (CRUD) with server-side validation, status filtering and pagination.
+- **UI:** responsive Bootstrap 5 interface for desktop and mobile.
+- **Deployment:** Ubuntu 24.04 (WSL2) with **Nginx, PHP-FPM and MySQL**. I configured the Nginx server block, a production `.env`, file permissions, a dedicated MySQL user and a Git-based deploy script (pull, composer install, migrate, optimize).
+- **Tech Stack:** Laravel 12, PHP 8.3, MySQL, Blade, Bootstrap, Nginx, Linux
+- 🔗 [View on GitHub](https://github.com/PhPaing/laravel-ticket-tracker)
+
+---
 
 ### 📌 Repair Queue (Condo Maintenance Tracker)
 A bilingual web app for condo residents to report maintenance problems and follow their place in the repair queue, with a Thai/English toggle.
@@ -78,22 +88,23 @@ A machine learning project that classifies tumors as **benign or malignant**.
 
 | Area | Technologies |
 |---|---|
-| **Languages** | TypeScript, JavaScript, C#, Java |
-| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
-| **API & Backend** | ASP.NET Core Web API, Entity Framework Core, REST APIs, JWT, JSON |
-| **Database** | SQL Server, MySQL, SQLite |
-| **Tools** | Git, GitHub, Postman, Swagger UI, Visual Studio, VS Code |
+| **Languages** | PHP, TypeScript, JavaScript, C#, Java |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS, Bootstrap |
+| **API & Backend** | Laravel, ASP.NET Core Web API, Entity Framework Core, REST APIs, JWT, JSON |
+| **Database** | MySQL, SQL Server, SQLite |
+| **Tools & Servers** | Git, GitHub, Linux (Ubuntu), Nginx, Postman, Swagger UI, Visual Studio, VS Code |
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 B.Sc. in Information Technology (Software Engineering), Stamford International University.
 - 💼 Completed a five-month software developer internship at Bangkok Glass Public Company Limited, building React.js and TypeScript interfaces and integrating them with ASP.NET Core REST APIs.
+- 🐧 Built and deployed a Laravel app on Ubuntu with Nginx, PHP-FPM and MySQL, and I'm continuing to learn SSL, SSH hardening and server maintenance.
 - 🧪 I test REST endpoints with Postman and Swagger UI and report integration and data issues to backend developers.
 - 📜 Certifications: Responsive Web Design and JavaScript Algorithms & Data Structures (freeCodeCamp); Cloud-Based Web Development (Stamford International University).
 - 🗣️ Languages: English (fluent), Burmese (native).
 - 🌱 Always learning new technologies and best practices to build scalable, reliable applications.
-- 🎯 Currently seeking a **Junior Full-Stack, .NET or React Developer** role. Available immediately.
+- 🎯 Currently seeking a **Junior Full-Stack, Laravel, .NET or React Developer** role. Available immediately.
 
 ---
 
